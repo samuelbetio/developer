@@ -19,10 +19,9 @@ Xiaoying Riley at 3rd Wave Media Ltd. (http://themes.3rdwavemedia.com/)
 
 Contact:
 =======================================================================
-Web: http://themes.3rdwavemedia.com/
-Email: hello@3rdwavemedia.com
-Twitter: @3rdwave_themes
-
+Web: http://samuelbetio.github.io/cv
+Email: samuelbetio@gmail.com.com
+Twitter: @samuelbetio
 License: 
 =======================================================================
 This template is free under the Creative Commons Attribution 3.0 License.
